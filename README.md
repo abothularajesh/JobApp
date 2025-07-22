@@ -16,7 +16,7 @@
 
 ## 🌐 Live Demo
 You can view the deployed project here (deployed via Render):
-  "C:\Users\aboth\Desktop\REC_20250722081411190.mp4"
+  https://github.com/user-attachments/assets/80d37d50-b990-4c0a-b08b-883030056cb5
 
 ---
 
